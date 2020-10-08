@@ -1,0 +1,44 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+#*.p12
+#*.key
+#*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+yarn-error.log
+
+android/build/**/*
+android/app/build/**/*
+android/.gradle/**/*
+android/*.hprof
+
+# macOS
+.DS_Store
+
+# Android/IntelliJ
+#
+build/
+.idea
+.gradle
+local.properties
+*.iml
+
+
+# Bundle artifacts
+*.jsbundle
+
+# CocoaPods
+/ios/Pods/
+/ios/bundle/**/**
+
+# Expo
+.expo/*
+
+*.log
+debug.log
+
+.eslintcache

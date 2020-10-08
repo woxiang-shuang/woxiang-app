@@ -1,0 +1,15 @@
+
+export const UPDATE_LOGIN = 'UPDATE_LOGIN';
+
+export const UPDATE_USER_INFO = 'UPDATE_USER_INFO';
+
+export const UPDATE_FOOTER_TAB_BAR = 'UPDATE_FOOTER_TAB_BAR';
+
+export const UPDATE_LOGINOUT = 'UPDATE_LOGINOUT';
+
+export const UPDATE_NETSTATUS = 'UPDATE_NETSTATUS';
+
+export const UPDATE_DATAERROR = 'UPDATE_DATAERROR';
+
+// 给netinfo的setstate , action的payload接受对象
+export const SETSTATE_NETINFOMODEL = 'SETSTATE_NETINFOMODEL';
